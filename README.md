@@ -114,7 +114,3 @@ jupyter notebook titanic_dataset.ipynb
 - LinkedIn: [soltanioumayma](https://linkedin.com/in/soltanioumayma)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License — feel free to use, modify, and share.
